@@ -44,3 +44,18 @@ font-family: 'Lato', sans-serif;
    background-color: #18bc9c;
    background-image: none;
  }
+
+ #start1:after {
+  content: " ";
+  display: inline-block;
+  width: 200px;
+  height: 10px;
+  background: white;
+}
+#start1:before {
+  content: " ";
+  display: inline-block;
+  width: 200px;
+  height: 10px;
+  background: white;
+}
