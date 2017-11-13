@@ -1,8 +1,4 @@
-/*
- * Fuentes que integraremos a nuestro css
- font-family: 'Montserrat', sans-serif;
-font-family: 'Lato', sans-serif;
- */
+
  * {
    margin: 0px;
    padding: 0px;
@@ -28,17 +24,10 @@ ul {
   color: white;
   font-family: 'Montserrat', sans-serif;
   font-size: 32px;
-<<<<<<< HEAD
   text-decoration: none;
   float: left;
   margin-left: 10%;
   margin-top: 2%;
-=======
-  position: absolute;
-  margin-left: 30px;
-  margin-top: 25px;
-  text-decoration: none;
->>>>>>> master
 }
 
 li .first-menu {
@@ -50,10 +39,6 @@ li .first-menu {
   margin: 8PX;
   right: 10%;
   text-decoration: none;
-<<<<<<< HEAD
-=======
-  margin-top: 35px;
->>>>>>> master
 }
 
 li .first-menu:hover {
@@ -212,7 +197,6 @@ input {
   background-color: #2c3e50;
   height: 300px;
   color: white;
-<<<<<<< HEAD
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   column-count: 3;
@@ -221,6 +205,4 @@ input {
 
 .container3 i {
   cursor: pointer;
-=======
->>>>>>> master
 }
